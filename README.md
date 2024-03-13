@@ -1,8 +1,13 @@
-# Primer desafio: READ ME
+# Primer proyecto: READ ME
 
 ## ABOUT:
 
-Bozquejo de archivo Read Me para primer desafío de Bootcamp de programación BIT
+Primer proyecto del Bootcamp de desarrollo wen BIT.
+
+Los requerimientos son:
+* Crear repositorio en Git
+* Crear archivo READ ME
+* Crear archivo con la estructura básica de HTML e información sobre nosotros
 
 ## AUTOR(ES):
 
